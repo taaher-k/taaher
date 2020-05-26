@@ -126,9 +126,11 @@ a:hover
    font-size: 20px;
    padding: 10px 20px 10px 20px;
    text-decoration: none;
+   Border-radius:15px;
 }
 .btn:hover
 {
+Bored-radius:15px;
    background: #30e3cb;
    background-image: -webkit-linear-gradient(top,  #30e3cb, #2bc4ad);
    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
